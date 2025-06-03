@@ -1,0 +1,17 @@
+export const sampleCodeTable = [
+  { maxLotSize: 8, I: "A", II: "A", III: "B" },
+  { maxLotSize: 15, I: "A", II: "B", III: "C" },
+  { maxLotSize: 25, I: "B", II: "C", III: "D" },
+  { maxLotSize: 50, I: "C", II: "D", III: "E" },
+  { maxLotSize: 90, I: "C", II: "E", III: "F" },
+  { maxLotSize: 150, I: "D", II: "F", III: "G" },
+  { maxLotSize: 280, I: "E", II: "G", III: "H" },
+  { maxLotSize: 500, I: "F", II: "H", III: "J" },
+  { maxLotSize: 1200, I: "G", II: "J", III: "K" },
+  { maxLotSize: 3200, I: "H", II: "K", III: "L" },
+  { maxLotSize: 10000, I: "J", II: "L", III: "M" },
+  { maxLotSize: 35000, I: "K", II: "M", III: "N" },
+  { maxLotSize: 150000, I: "L", II: "N", III: "P" },
+  { maxLotSize: 500000, I: "M", II: "P", III: "Q" },
+  { maxLotSize: Infinity, I: "N", II: "Q", III: "R" },
+];
